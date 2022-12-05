@@ -2,5 +2,5 @@
 Stream exercises
 
 * OK
-Brazil - South Korea
-  4           1
+* Brazil - South Korea
+    4           1
