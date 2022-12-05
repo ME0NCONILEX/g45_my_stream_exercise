@@ -1,4 +1,6 @@
-# g45_my_stream_exercise-master
+# g45_my_stream_exercise
 Stream exercises
 
-* Obs! Under construction!
+* OK
+Brazil - South Korea
+  4           1
