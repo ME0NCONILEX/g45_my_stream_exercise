@@ -3,4 +3,4 @@ Stream exercises
 
 * OK
 * Brazil - South Korea
-    4           1
+*   4           1
